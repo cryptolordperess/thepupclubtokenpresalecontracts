@@ -1,0 +1,24 @@
+{
+  "name": "the-pup-club-token-presale-contract",
+  "version": "1.0.0",
+  "description": "The Pup Club Token Pre-sale Smart Contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\ \" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "keywords": [
+    "ethereum",
+    "smart",
+    "contract",
+    "token",
+    "presale",
+    "blockchain",
+    "crypto"
+  ],
+  "author": "THE PUP CLUB TOKEN",
+  "license": "MIT"
+}
