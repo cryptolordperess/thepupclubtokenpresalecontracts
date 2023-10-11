@@ -3,7 +3,8 @@
 
 pragma solidity ^0.8.0;
 
-import "https://github.com/cryptolordperess/thepupclubtokenpresalecontracts/blob/main/CONTEXT.sol";
+// Importing locally stored Context.sol
+import "./Context.sol";
 
 /**
  * @dev Contract module which provides a basic access control mechanism, where
